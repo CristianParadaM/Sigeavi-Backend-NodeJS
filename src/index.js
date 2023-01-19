@@ -6,7 +6,7 @@ const express_session = require('express-session');
 
 // Constantes
 const CONST = {
-    PORT: 5000,
+    PORT: 80,
 };
 
 // Initializations
